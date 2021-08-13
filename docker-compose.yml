@@ -1,0 +1,9 @@
+version: "3.2"
+
+services:
+  workspace:
+    build: .
+    container_name: go-cgo-c-php-example
+    tty: true
+    volumes:
+      - .:/usr/src/workspace

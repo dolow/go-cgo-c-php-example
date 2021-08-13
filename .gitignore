@@ -1,0 +1,24 @@
+# os
+.DS_Store
+
+# app
+/c/.libs
+/c/autom4te.cache
+/c/build
+/c/include
+/c/modules
+/c/config.h
+/c/config.h.in
+/c/config.log
+/c/config.nice
+/c/config.status
+/c/configure
+/c/configure.ac
+/c/libtool
+/c/main.lo
+/c/Makefile.fragments
+/c/Makefile.objects
+/c/my_module.la
+/c/run-tests.php
+/cgo/libmymodule.h
+/cgo/libmymodule.so
