@@ -10,6 +10,16 @@ This example is based on PHP 8.0.2.
 
 PHP changes its interface for extension frequently.
 
+# Motivation
+
+If you have a nice module written in Go, you may don't want to rewrite the same features in PHP.
+
+After trying reusing Go code, you'll realize that need to separate the language binding interface and core logic of Go code eventually.
+
+What's more, you may find out that there is lack of information about how to develop the PHP extension.
+
+Here is the repository for the people in such challenging case.
+
 # Structure
 
 ```
