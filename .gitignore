@@ -15,7 +15,9 @@
 /c/configure
 /c/configure.ac
 /c/libtool
+/c/main.dep
 /c/main.lo
+/c/Makefile
 /c/Makefile.fragments
 /c/Makefile.objects
 /c/my_module.la

@@ -55,8 +55,7 @@ $ go mod tidy
 ## Build
 
 ```
-$ make cgo
-$ make c
+$ make
 ```
 
 ## Run
